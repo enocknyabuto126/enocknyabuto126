@@ -1,14 +1,14 @@
 
 # Hi there, I'm Enock 👋  
 
-🎓 Final-year Computer Science Student  
+🎓 Final-year Information Technology Student  
 💡 Passionate about AI, Web Development & Data Analysis  
 🚀 Building projects that solve real-world problems  
 
 ## 🛠️ Skills
 - **Languages:** Python, Java, JavaScript, SQL  
 - **Web:** HTML, CSS, React, Node.js  
-- **Tools:** Git, GitHub, Docker, Linux  
+- **Tools:** Git, GitHub, Excel
 
 ## 📌 Featured Projects
 - [Wash-and-Fold Laundry Service Platform](https://github.com/enocknyabuto126/your-repo)  
